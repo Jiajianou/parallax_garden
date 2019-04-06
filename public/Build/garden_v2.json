@@ -1,10 +1,10 @@
 {
-"companyName": "DefaultCompany",
+"companyName": "J",
 "productName": "Garden_parallax",
 "dataUrl": "garden_v2.data.unityweb",
 "wasmCodeUrl": "garden_v2.wasm.code.unityweb",
 "wasmFrameworkUrl": "garden_v2.wasm.framework.unityweb",
-"TOTAL_MEMORY": 268435456,
+"TOTAL_MEMORY": 536870912,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
